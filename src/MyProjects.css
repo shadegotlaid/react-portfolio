@@ -1,0 +1,21 @@
+.my-projects-container {
+    background-color: black;
+    display: flex;
+    align-items: center;
+  }
+  
+  .my-projects-text {
+    flex: 1;
+    color: white;
+    padding: 20px;
+  }
+  
+  .my-projects-image {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .my-projects-image img {
+    max-width: 100%;
+  }
+  
