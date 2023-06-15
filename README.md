@@ -1,3 +1,6 @@
+### My name is Kousha Shadyarayan and this is my React Portfolio 
+[Link to the published portfolio](https://classy-force.surge.sh/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
